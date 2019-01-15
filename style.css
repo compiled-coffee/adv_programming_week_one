@@ -1,0 +1,56 @@
+body {
+    background: #d7e1e5;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: #2c3646;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    color: #2c3646;
+    text-align: left;
+}
+
+h4, h3 {
+    font-family: 'Press Start 2P', cursive;
+    color: #2c3646;
+    text-align: center;
+}
+
+p {
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: left;
+    font-size: 16px;
+}
+
+#me {
+    height: 225px;
+    width: 175px;
+    border-radius: 50%;
+}
+
+#coffee {
+    height: 225px;
+    width: 175px;
+    border-radius: 50%;
+}
+
+#cat {
+    height: 225px;
+    width: 175px;
+    border-radius: 50%;
+}
+
+.container {
+    text-align: center;
+}
+
+.images {
+    display: inline-block; 
+}
+
+
+
